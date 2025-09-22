@@ -20,7 +20,7 @@ With xDNS, you can easily bypass geo-restrictions, reduce latency in online game
 
 Whether you're a developer, streamer, or privacy-conscious user, xDNS provides the tools you need to take full control of your network.
 
-![xDNS Interface](https://static.macupdate.com/screenshots/357019/m/php9qvjxk-screenshot.png)
+![xDNS Interface](https://www.blackvoid.club/content/images/2020/06/Screenshot-2020-06-12-at-12.58.07.png)
 
 ---
 
